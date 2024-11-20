@@ -1,8 +1,6 @@
 # Quant_Grover
-Grover for MaxCut problem
-<p align="center">
-    **This is Grover's quantum algorithm that solves the MaxCut problem for a set of (11111).**  
-</p>
+**This is Grover's quantum algorithm that solves the MaxCut problem for a set of (11111).**  
+# Grover for MaxCut problem
 It works as follows:
 **1.** Create a quantum superposition of all possible states using Hadamard gates to all qubits. We get a uniform distribution over all states;  
 **2.** Apply the oracle operator to mark the target state (11111), imposing a phase shift on it. In the case of the problem (11111), the oracle changes the phase of this state to −1. For all other states, the phase remains unchanged;  
