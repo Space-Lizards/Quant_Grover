@@ -7,4 +7,4 @@ It works as follows:
 3. Set the Grover operator (diffusion). After the oracle has marked the target state, we need to increase the probability that we will measure this state. To do this, we use the diffusion operator, which increases the probability of the "correct" state. The diffusion operator inverts the amplitude with respect to the mean;
 4. Repeat steps 2,3 several times;
 5. After applying the oracle and Grover operator several times, we measure the state. Due to the increased probability, we are more likely to get the target state, for example 11111.
-![Scheme of Grover](https://raw.githubusercontent.com/Space-Lizards/Quant_Grover/grover_circuit.png)
+![Scheme of Grover](https://raw.githubusercontent.com/Space-Lizards/Quant_Grover/main/grover_circuit.png)
