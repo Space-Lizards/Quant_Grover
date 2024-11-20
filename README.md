@@ -1,7 +1,7 @@
 # Quant_Grover
+Grover for MaxCut problem
 <p align="center">
-    **Grover for MaxCut problem
-This is Grover's quantum algorithm that solves the MaxCut problem for a set of (11111).**  
+    **This is Grover's quantum algorithm that solves the MaxCut problem for a set of (11111).**  
 </p>
 It works as follows:
 **1.** Create a quantum superposition of all possible states using Hadamard gates to all qubits. We get a uniform distribution over all states;  
